@@ -8,7 +8,6 @@ format:
     pdf:
         toc: true
         toc-depth: 2
-        path: https://github.com/ShahrukhP15/quarto-python/raw/main/reports/qmd_example.pdf
 bibliography: references.bib
 execute: 
   echo: false
