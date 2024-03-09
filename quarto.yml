@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: reports
 
 webbsite:
   title: Reproducible Reports with Quarto
